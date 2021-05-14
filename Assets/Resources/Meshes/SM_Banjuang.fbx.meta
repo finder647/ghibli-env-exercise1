@@ -22,6 +22,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: M_Bush_02
+    second: {fileID: 2100000, guid: 01ca1f56bc30f4f459e2f6625ba2480a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: M_Emissive
     second: {fileID: 2100000, guid: 003741d4647d1d440a83f21609b8c542, type: 2}
   - first:
@@ -39,6 +44,16 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: M_Roof_Base
     second: {fileID: 2100000, guid: b1f2d72ec4b887a479eb35eea0201a23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Tree_Leaf_Broad_Sty
+    second: {fileID: 2100000, guid: 01ca1f56bc30f4f459e2f6625ba2480a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Tugu
+    second: {fileID: 2100000, guid: b0af15a1f46051745af0337de1883bfd, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
